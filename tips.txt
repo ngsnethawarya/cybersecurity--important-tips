@@ -1,0 +1,20 @@
+Always enable multi-factor authentication (MFA) to reduce credential-based attack risks.
+• Avoid interacting with unknown or unsolicited URLs or attachments, especially from unverified senders.
+• Use long, unique, and randomly generated passwords; never reuse credentials across services.
+• Keep operating systems, browsers, firmware, and security tools updated to mitigate known vulnerabilities.
+• Use a trusted VPN on public or unsecured Wi-Fi to protect network traffic from interception.
+• Regularly review account login activity and access logs for suspicious behavior.
+• Encrypt sensitive data both at rest and in transit to maintain confidentiality and integrity.
+• Disable unused ports, services, and protocols to reduce your attack surface.
+• Follow the principle of least privilege (PoLP) when granting user or system permissions.
+• Routinely back up critical data using versioned, offline, or immutable backups.
+• Verify URLs for Punycode or homoglyph spoofing before entering credentials.
+• Use password managers to securely store and generate credentials.
+• Monitor devices for unusual CPU, network, or disk activity that may indicate compromise.
+• Harden browsers by disabling unnecessary extensions and enabling tracking protection.
+• Enable DNS filtering or secure DNS (DoH/DoT) to prevent malicious domain resolution.
+• Perform periodic vulnerability scans on your systems using reputable tools.
+• Avoid using default credentials on any device or service—change them immediately.
+• Log out of web sessions on shared or public devices to prevent session hijacking.
+• Be cautious of QR codes from unknown sources—they can redirect to malicious URLs.
+• Segment your home or lab network to isolate critical systems or testing environments.
